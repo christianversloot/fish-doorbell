@@ -1,5 +1,5 @@
 # Automating the Fish Doorbell with Computer Vision
-🇳🇱: Automatiseren van de visdeurbel met computer vision
+🇳🇱: Automatiseren van de visdeurbel met computer vision.
 
 ## Table of Contents
 - [Automating the Fish Doorbell with Computer Vision](#automating-the-fish-doorbell-with-computer-vision)
@@ -11,7 +11,7 @@
     + [How the detector works.](#how-the-detector-works)
   * [Results](#results)
   * [Running the code yourself](#running-the-code-yourself)
-  
+
 ## What is the Fish Doorbell?
 
 [![Watch the video](https://i.imgur.com/uJDRBtJ.png)](https://www.youtube.com/watch?v=0MgeR85IMOM)
